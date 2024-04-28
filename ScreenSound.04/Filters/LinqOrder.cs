@@ -11,7 +11,7 @@ internal class LinqOrder
         //Estamos ordenando a lista de musicas pelos artistas, depois disso selecionamos apenas a propriedade artista,
         //tiramos o que é repetido e transformamos esse novo filtro em uma list
 
-        //Inglês
+        //English:
         //We are sorting the list of songs by artists, then we select only the artist property,
         //remove duplicates, and convert this new filter into a list
         Console.WriteLine("Sorted list of artists");
